@@ -1,0 +1,11 @@
+[30 points] Write a program to maneuver your drone vehicle as outlined below:
+
+Launch the drone vehicle from the Home Location A to an ascending target Location B with gradually increasing velocity
+Control the drone to circle at Location B with a radius of 5 meters for 10 seconds at reduced velocity
+Control the drone to continue to Location C at  a higher latitude and longitude than Location B
+Control the drone to  circle at Location C four times with a radius of 3 meters
+Control the drone to continue at the same longitude, but increased latitude to Location D
+Control the drone to circle at Location D four times with a radius of 5 meters
+Control the drone to gradually descend from Location D to a new Location E, where E has the same longitude as B, and same latitude as D
+Control the drone to  circle at Location E with a radius of 5 meters for 20 seconds
+Control the drone to gradually descend from Location E to its Home Location A
